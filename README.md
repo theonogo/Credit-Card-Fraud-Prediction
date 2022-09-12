@@ -1,5 +1,8 @@
 # Credit-Card-Fraud-Prediction
 
+Data Aquired from Kaggle
+https://www.kaggle.com/datasets/bannourchaker/frauddetection
+
 ## Team
 
 Albertas Ovodas
