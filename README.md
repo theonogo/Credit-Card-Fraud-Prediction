@@ -51,6 +51,6 @@ Colaboration
 ## Results and Analysis
 All the results and in depth analysis of theory, model, disscusions and results can be found in Card Fraud Report.pdf
 
-Main Findings for summerizer:
+Main Findings for Logistic regression, Random Forests, and XGBoost.
 ![image](https://user-images.githubusercontent.com/100313005/189701428-e2aaca51-65f0-452c-a948-62d24ac3e9a3.png)
 
